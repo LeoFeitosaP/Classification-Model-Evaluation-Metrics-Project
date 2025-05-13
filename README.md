@@ -1,2 +1,22 @@
 # Classification-Model-Evaluation-Metrics-Project
-This project provides a complete implementation of essential evaluation metrics for machine learning classification models.
+# 📊 Project Overview
+This project demonstrates how to calculate and interpret essential evaluation metrics for classification models, including:
+
+Accuracy
+
+Sensitivity (Recall)
+
+Specificity
+
+Precision
+
+F1-Score
+
+The implementation shows both manual calculations (from scratch) and optimized versions using scikit-learn functions.
+
+# 🔍 Key Features
+✅ Manual implementation of all metrics without ML libraries
+✅ Complete confusion matrix analysis
+✅ Percentage conversion utilities
+✅ Comparison between manual and scikit-learn calculations
+✅ Detailed metric explanations and use cases
