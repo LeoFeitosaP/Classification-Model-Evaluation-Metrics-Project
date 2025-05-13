@@ -1,4 +1,7 @@
 # Classification-Model-Evaluation-Metrics-Project
+
+Check the code in google collab: https://colab.research.google.com/drive/1UlwUJMryK3nd8QkEGOkRCt4IfY0G-r34?authuser=0#scrollTo=-kB3_JkB5pBi
+
 # 📊 Project Overview
 This project demonstrates how to calculate and interpret essential evaluation metrics for classification models, including:
 
